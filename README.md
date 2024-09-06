@@ -35,6 +35,6 @@ pip install pandas numpy seaborn matplotlib librosa
 
 ## Contributing
 Each unit should fork the repository and submit pull requests. For any issues or feature requests, please open an issue.
-One person should create a fork named: person1_person2 then both person1 and 2 should be collaborators.
+One person should create a fork named: person1_person2 then both person1 and 2 should be collaborators in that fork.
 
 ---
